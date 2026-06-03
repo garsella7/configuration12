@@ -9,7 +9,6 @@
 LIST CONFIG ZiVPN BERBENTUK TEKS
 
 - **Mode V2ray**
-
   - [AXIS XL IFLIX JBR](#axisxl_iflix)
   - [AXIS XL WA JBR](#axisxl_wa_jabar)
   - [AXIS XL WA HANYA DI TKP TERTENTU](#axisxl_wa_terentu)
@@ -18,7 +17,6 @@ LIST CONFIG ZiVPN BERBENTUK TEKS
   - [TSEL BELAJAR ILPED](#tsel_ilped)
 
 - **Mode SSH**
-
   - [AXIS XL BOOSTR MUSIK SPOTIFY](#axisxl_musik_spotify)
   - [AXIS XL BOOSTR CONFERENCE JBR](#axisxl_confer)
   - [AXIS XL EDUKASI JBR](#axisxl_edu)
