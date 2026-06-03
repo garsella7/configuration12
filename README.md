@@ -4,7 +4,12 @@
   <img src="zivpn.jpg" width="420">
 </p>
 
-## Description
+## Description :
+
+- **CARA PAKAI CONFIG ZiVPN, UNTUK PEMULA**
+  - Salin Config Berbentuk Teks, di bawah, jika sudah
+  - Buka Aplikasi ZiVPN, klik Titik 3 di atas kanan, lalu klik Fitur import From Clipboard
+  - Otomatis akun ZiVPN Ter import, Lalu klik Tombol START.
 
 LIST CONFIG ZiVPN BERBENTUK TEKS
 
