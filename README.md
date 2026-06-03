@@ -17,7 +17,7 @@ LIST CONFIG ZiVPN BERBENTUK TEKS
   - [TSEL OPOK LIMIT 200MB](#tsel_opok)
   - [TSEL BELAJAR ILPED](#tsel_ilped)
 
-  - **Mode SSH**
+- **Mode SSH**
 
   - [AXIS XL BOOSTR MUSIK SPOTIFY](#axisxl_musik_spotify)
   - [AXIS XL BOOSTR CONFERENCE JBR](#axisxl_confer)
