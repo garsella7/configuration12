@@ -21,7 +21,6 @@ LIST CONFIG ZiVPN BERBENTUK TEKS
   - [AXIS XL BOOSTR CONFERENCE JBR](#axisxl_confer)
   - [AXIS XL EDUKASI JBR](#axisxl_edu)
   - [AXIS XL SUSHIROLL](#axisxl_sushiroll)
-  - 
 
 ### MODE V2RAY
 
