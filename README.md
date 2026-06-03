@@ -86,4 +86,4 @@ zivpn://r0no+QJeY9jHAV6lt/shRATSSsWsWqA3Ia9iJ93kTiMG3C/d0lNlna13wuC8+NvvArrWtRP8
 # Saluran WhatApp
 - [Berbagi Config Indonesia](https://whatsapp.com/channel/0029VbBI84k29752DlB8S90u)
 # Grup Telegram
-- [Berbagi Config Indonesia](https://t.me/idgarsell)
+- [Berbagi Config Indonesia](https://t.me/configuration12)
