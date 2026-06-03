@@ -82,3 +82,8 @@ zivpn://r0no+QJeY9jHAV6lt/shRATSSsWsWqA3Ia9iJ93kTiMG3C/d0lNlna13wuC8+NvvArrWtRP8
 
 - [WhatsApp](https://wa.me/623896088456)
 - [Telegram](https://t.me/idgarsell)
+
+# Saluran WhatApp
+- [Berbagi Config Indonesia](https://whatsapp.com/channel/0029VbBI84k29752DlB8S90u)
+# Grup Telegram
+- [Berbagi Config Indonesia](https://t.me/idgarsell)
