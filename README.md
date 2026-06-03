@@ -84,4 +84,4 @@ zivpn://r0no+QJeY9jHAV6lt/shRATSSsWsWqA3Ia9iJ93kTiMG3C/d0lNlna13wuC8+NvvArrWtRP8
 ## Info Order Akun bisa Lewat Kontak:
 
 - [WhatsApp](https://wa.me/623896088456)
-- [Telegram](https://idgarsell)
+- [Telegram](https://t.me/idgarsell)
